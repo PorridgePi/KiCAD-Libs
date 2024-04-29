@@ -1,0 +1,94 @@
+(footprint "TEMT6000-SMD"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.524 180)
+		(layer "F.SilkS")
+		(uuid "f3a9eaac-463a-46e5-9718-521a3fec8268")
+		(effects
+			(font
+				(size 0.29972 0.29972)
+				(thickness 0.0635)
+			)
+		)
+	)
+	(property "Value" "TEMT6000"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "d6acaa26-d990-4567-896d-65ba812069e1")
+		(effects
+			(font
+				(size 0.29972 0.29972)
+				(thickness 0.0635)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "53ec7d15-5ad8-42ff-a8b7-2cee293eb28b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f8638718-4976-4faa-997f-514b0ee8e2ab")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2af9ab69-38dd-4a46-b7f3-c219dd0e76c0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -2.54 -1.143)
+		(end 2.54 1.143)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "63a674f4-46f7-40f5-988b-1636ff6f65bf")
+	)
+	(pad "" smd rect
+		(at -1.775 0.55)
+		(size 1.1 0.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f93c7e7e-a985-4055-9c17-2c18ebef2095")
+	)
+	(pad "1" smd rect
+		(at -1.775 -0.55)
+		(size 1.1 0.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "08956e42-fcb6-4e3d-88b6-c6ce833b2d24")
+	)
+	(pad "2" smd rect
+		(at 1.775 0)
+		(size 1.1 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "64368a0a-0c29-4e4e-bd41-c0f6d7f57d74")
+	)
+)
