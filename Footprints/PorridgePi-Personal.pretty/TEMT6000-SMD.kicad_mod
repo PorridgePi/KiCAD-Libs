@@ -3,6 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
+	(descr "TEMT6000 Ambient Light Sensor (SMD)")
+	(tags "TEMT6000 Ambient Light Sensor")
 	(property "Reference" "REF**"
 		(at 0 -1.524 180)
 		(layer "F.SilkS")
@@ -61,7 +63,7 @@
 			)
 		)
 	)
-	(attr through_hole)
+	(attr smd)
 	(fp_rect
 		(start -2.54 -1.143)
 		(end 2.54 1.143)
