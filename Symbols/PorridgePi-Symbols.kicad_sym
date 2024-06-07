@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PorridgePi-Symbols:ESP-32-Pico"
+		(property "Footprint" "PorridgePi-Personal:ESP32-S2-Pico"
 			(at 0 0 90)
 			(effects
 				(font
@@ -815,7 +815,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PorridgePi-Symbols:ESP-32-Pico-ADC"
+		(property "Footprint" "PorridgePi-Personal:ESP32-S2-Pico"
 			(at 0 -30.48 0)
 			(effects
 				(font
