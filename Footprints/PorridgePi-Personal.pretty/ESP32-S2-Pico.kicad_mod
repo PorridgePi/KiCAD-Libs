@@ -6,7 +6,7 @@
 	(descr "ESP32-S2 microcontroller board in Raspberry Pi Pico form factor")
 	(tags "ESP32-Pico ESP32-S2 ESP32 Pico")
 	(property "Reference" "REF**"
-		(at -6.35 29.21 -90)
+		(at 0 -2.54 180)
 		(layer "F.SilkS")
 		(uuid "d52e2df6-67c2-4528-8ffa-fc141bc882ea")
 		(effects
@@ -1433,6 +1433,18 @@
 		(effects
 			(font
 				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "ESP32-S2-Pico"
+		(at 8.89 12.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "187cb91f-09fb-4e56-981e-068cd39fde3c")
+		(effects
+			(font
+				(size 1 1)
 				(thickness 0.15)
 			)
 		)
