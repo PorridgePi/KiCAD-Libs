@@ -6,9 +6,8 @@
 	(descr "Raspberry Pi Pico (W), RP2040-based microcontroller board (with wireless)")
 	(tags "RPi Pico Pico-W PicoW RP2040 CYW43439 Wi-Fi WiFi SMD")
 	(property "Reference" "REF**"
-		(at -6.35 29.21 -90)
+		(at 0 -2.54 0)
 		(layer "F.SilkS")
-		(hide yes)
 		(uuid "d52e2df6-67c2-4528-8ffa-fc141bc882ea")
 		(effects
 			(font
