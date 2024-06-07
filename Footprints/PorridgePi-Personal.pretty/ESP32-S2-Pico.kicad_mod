@@ -3,8 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "Raspberry Pi Pico (W), RP2040-based microcontroller board (with wireless)")
-	(tags "Pico-W RPL RPTL RPi module RP2040 CYW43439 2.4GHz RF radio Wi-Fi WiFi SMD")
+	(descr "ESP32-S2 microcontroller board in Raspberry Pi Pico form factor")
+	(tags "ESP32-Pico ESP32-S2 ESP32 Pico")
 	(property "Reference" "REF**"
 		(at -6.35 29.21 -90)
 		(layer "F.SilkS")
