@@ -2171,8 +2171,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at -8.89 5.08 0)
+		(property "Footprint" "PorridgePi-Personal:RP2040-Zero"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
