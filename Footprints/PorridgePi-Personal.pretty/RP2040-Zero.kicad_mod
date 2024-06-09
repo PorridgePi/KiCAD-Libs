@@ -1953,6 +1953,20 @@
 			(justify mirror)
 		)
 	)
+	(fp_text user "RP2040-Zero"
+		(at 0 -1.524 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "ca525030-cd1d-4751-a07e-c0b20ad1f73a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
 	(fp_text user "GP14"
 		(at -10.795 10.16 135)
 		(layer "B.SilkS")

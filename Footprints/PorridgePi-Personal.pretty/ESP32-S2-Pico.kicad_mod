@@ -1237,6 +1237,19 @@
 			(justify mirror)
 		)
 	)
+	(fp_text user "ESP32-S2-Pico"
+		(at 8.89 12.7 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "b99d9190-2dd2-478d-bfa9-3c802172fbec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
 	(fp_text user "GP36"
 		(at 20.589375 48.26 -45)
 		(layer "B.SilkS")
