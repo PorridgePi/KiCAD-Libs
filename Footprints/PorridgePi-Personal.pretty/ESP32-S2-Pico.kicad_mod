@@ -18,7 +18,6 @@
 	)
 	(property "Value" "ESP32-S2-Pico"
 		(at 8.89 51.562 0)
-		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "365f06fe-e9bf-47ba-8c2c-8f93491d342a")
 		(effects
@@ -37,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -49,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -61,6 +62,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -869,26 +871,6 @@
 		(layer "F.SilkS")
 		(uuid "b888b5ef-4f63-4f08-a616-95146e24007a")
 	)
-	(fp_line
-		(start 2.39 49.63)
-		(end 4.89 49.63)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "68c6fa37-ee2d-4041-b55c-bd10b5248204")
-	)
-	(fp_line
-		(start 15.39 49.63)
-		(end 12.89 49.63)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "0f9781f9-f423-45d4-bf54-83f1bf89adf7")
-	)
 	(fp_poly
 		(pts
 			(xy 19.39 49.63) (xy -1.61 49.63) (xy -1.61 -0.37) (xy -0.61 -1.37) (xy 19.39 -1.37)
@@ -1239,7 +1221,6 @@
 	)
 	(fp_text user "ESP32-S2-Pico"
 		(at 8.89 12.7 0)
-		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "b99d9190-2dd2-478d-bfa9-3c802172fbec")
 		(effects
@@ -1396,7 +1377,6 @@
 	)
 	(fp_text user "USB"
 		(at 8.89 5.588 0)
-		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "07b7dd61-77ae-4686-8907-8ec2bba7578b")
 		(effects
@@ -1452,7 +1432,6 @@
 	)
 	(fp_text user "ESP32-S2-Pico"
 		(at 8.89 12.7 0)
-		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "187cb91f-09fb-4e56-981e-068cd39fde3c")
 		(effects
@@ -1541,7 +1520,6 @@
 	)
 	(fp_text user "LED"
 		(at 2.413 7.874 0)
-		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "53adcc3f-0ce0-4930-bfec-570ab4bceeb9")
 		(effects
@@ -1641,7 +1619,6 @@
 	)
 	(fp_text user "BOOT"
 		(at 4.953 18.415 0)
-		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "869f3377-dcd2-4257-9e0c-8c32eb7fedaa")
 		(effects
@@ -1829,7 +1806,6 @@
 	)
 	(fp_text user "RESET"
 		(at 12.7 18.415 0)
-		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "e651fd44-006c-49e7-8379-195c953e6631")
 		(effects
